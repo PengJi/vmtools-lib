@@ -1,0 +1,6 @@
+.idea
+venv
+
+# rust
+*.lock
+target/
